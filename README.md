@@ -8,8 +8,8 @@ The objective of the laboratory was to extrapolate the DH parameters from an exi
 The code was produced by Enrico Casagrande, Nicola De Carli and Claudio Curti in December 2018.
 
 ## Authors
-| Name | E-mail | ID |
-|------|--------|--------|
+| Name | E-mail |
+|------|--------|
 | Enrico Casagrande| erri.casagrande@gmail.com |
 | Nicola De Carli | nico.decarli@live.it |
 | Claudio Curti | curti.claudio96@gmail.com |
